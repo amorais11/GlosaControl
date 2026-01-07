@@ -1,0 +1,5 @@
+{
+  "name": "GlosaControl",
+  "description": "Sistema de controle de procedimentos médicos e análise automática de glosas em faturas Unimed utilizando IA.",
+  "requestFramePermissions": []
+}
